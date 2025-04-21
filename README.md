@@ -6,8 +6,8 @@
 
 I'm a passionate Full Stack Developer who thrives on exploring new technologies and building innovative solutions. With a strong foundation in both front-end and back-end development, I enjoy creating seamless and efficient applications.
 
-- 🌐 **Website**: [rahul-acharya-portfolio.vercel.app](https://rahul-acharya-portfolio.vercel.app/)
-- 🐦 **Twitter**: [@_Rahul_Acharya](https://twitter.com/_Rahul_Acharya)
+- 🌐 **Website**: [rahul-acharya-portfolio.vercel.app](.)
+- 🐦 **Twitter**: [@_Rahul_Acharya](.)
 
 ## 🛠️ Skills
 
