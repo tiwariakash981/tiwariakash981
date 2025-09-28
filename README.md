@@ -41,17 +41,6 @@ I'm a passionate Full Stack Developer who thrives on exploring new technologies 
 
 ![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariakash981&show_icons=true&theme=radical)
 
-## 🎉 Fun Facts
-
-- Did you know there are over 700 programming languages? 
-
-- The first computer game was created in 1961.
-
-## 🎯 Hobbies
-
-- 📚 Reading books
-- 🏋️‍♂️ Exercising
-- 🎬 Watching sci-fi movies
 
 Feel free to connect with me(tiwariakash981@gmail.com) to discuss technology, projects, or any exciting opportunities!
 
